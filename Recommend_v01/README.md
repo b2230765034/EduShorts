@@ -23,23 +23,28 @@ Bu versiyon, yapay zeka entegrasyonu için sağlam bir temel oluşturmayı hedef
 get_recommendations() Fonksiyonu
 Kullanıcı için öneri listesi oluşturur.
 
-Python
-
+python
 get_recommendations(user_id, k=20)
 Parametreler:
 
-user_id (string): Öneri istenecek kullanıcının ID'si.
+user_id (string): Öneri istenecek kullanıcının ID'si
 
-k (integer): İstenen öneri sayısı.
+k (integer): İstenen öneri sayısı
 
 Dönüş Değeri:
 
-list: Önerilen video ID'lerinin listesi.
+list: Önerilen video ID'lerinin listesi
 
 📊 Veri Setleri
 Bu kodun çalışabilmesi için recommender_system/data/raw klasöründe aşağıdaki üç CSV dosyasının bulunması gerekir:
 
-interactions.csv: Kullanıcıların videolarla olan etkileşimleri.
+interactions.csv: Kullanıcıların videolarla olan etkileşimleri
+
+user_features.csv: Kullanıcıların statik bilgileri (sınıf, ilgi alanları vb.)
+
+video_features.csv: Videoların meta verileri (süre, hashtag'ler vb.)
+
+Kod, bu ham verileri işleyerek recommender_system/data/processed klasörüne çıktı dosyaları kaydeder.
 
 user_features.csv: Kullanıcıların statik bilgileri (sınıf, ilgi alanları vb.).
 
