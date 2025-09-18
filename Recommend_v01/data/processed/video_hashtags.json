@@ -1,0 +1,952 @@
+{
+  "video_1": [
+    "paragraf",
+    "tyt",
+    "12"
+  ],
+  "video_10": [
+    "matematik",
+    "9",
+    "ayt"
+  ],
+  "video_100": [
+    "10",
+    "geometri",
+    "ayt"
+  ],
+  "video_101": [
+    "biyoloji",
+    "ayt",
+    "12"
+  ],
+  "video_102": [
+    "edebiyat",
+    "tyt",
+    "9"
+  ],
+  "video_103": [
+    "co\u011frafya",
+    "ayt",
+    "12"
+  ],
+  "video_104": [
+    "tyt",
+    "11",
+    "kimya"
+  ],
+  "video_105": [
+    "geometri",
+    "9",
+    "ayt"
+  ],
+  "video_106": [
+    "co\u011frafya",
+    "9",
+    "ayt"
+  ],
+  "video_107": [
+    "12",
+    "kimya"
+  ],
+  "video_108": [
+    "10",
+    "paragraf",
+    "tyt"
+  ],
+  "video_109": [
+    "paragraf",
+    "9"
+  ],
+  "video_11": [
+    "co\u011frafya",
+    "9"
+  ],
+  "video_110": [
+    "paragraf",
+    "ayt",
+    "12"
+  ],
+  "video_111": [
+    "tyt",
+    "biyoloji",
+    "11"
+  ],
+  "video_112": [
+    "12",
+    "ayt",
+    "fizik"
+  ],
+  "video_113": [
+    "matematik",
+    "tyt",
+    "9"
+  ],
+  "video_114": [
+    "edebiyat",
+    "11",
+    "ayt"
+  ],
+  "video_115": [
+    "matematik",
+    "tyt",
+    "12"
+  ],
+  "video_116": [
+    "paragraf",
+    "11",
+    "ayt"
+  ],
+  "video_117": [
+    "11",
+    "kimya"
+  ],
+  "video_118": [
+    "10",
+    "tyt",
+    "fizik"
+  ],
+  "video_119": [
+    "tyt",
+    "11",
+    "fizik"
+  ],
+  "video_12": [
+    "10",
+    "paragraf",
+    "tyt"
+  ],
+  "video_120": [
+    "edebiyat",
+    "tyt",
+    "9"
+  ],
+  "video_121": [
+    "10",
+    "ayt",
+    "tarih"
+  ],
+  "video_122": [
+    "tyt",
+    "12",
+    "tarih"
+  ],
+  "video_123": [
+    "paragraf",
+    "tyt",
+    "12"
+  ],
+  "video_124": [
+    "matematik",
+    "tyt",
+    "10"
+  ],
+  "video_125": [
+    "matematik",
+    "11",
+    "ayt"
+  ],
+  "video_126": [
+    "edebiyat",
+    "9",
+    "ayt"
+  ],
+  "video_127": [
+    "edebiyat",
+    "tyt",
+    "10"
+  ],
+  "video_128": [
+    "11",
+    "ayt",
+    "kimya"
+  ],
+  "video_129": [
+    "co\u011frafya",
+    "ayt",
+    "12"
+  ],
+  "video_13": [
+    "edebiyat",
+    "11"
+  ],
+  "video_130": [
+    "tyt",
+    "biyoloji",
+    "11"
+  ],
+  "video_131": [
+    "matematik",
+    "tyt",
+    "10"
+  ],
+  "video_132": [
+    "co\u011frafya",
+    "11",
+    "tyt"
+  ],
+  "video_133": [
+    "biyoloji",
+    "11",
+    "ayt"
+  ],
+  "video_134": [
+    "edebiyat",
+    "ayt",
+    "12"
+  ],
+  "video_135": [
+    "9",
+    "tyt",
+    "biyoloji"
+  ],
+  "video_136": [
+    "paragraf",
+    "11",
+    "ayt"
+  ],
+  "video_137": [
+    "11",
+    "ayt",
+    "tarih"
+  ],
+  "video_138": [
+    "paragraf",
+    "9",
+    "ayt"
+  ],
+  "video_139": [
+    "matematik",
+    "12"
+  ],
+  "video_14": [
+    "11",
+    "ayt",
+    "tarih"
+  ],
+  "video_140": [
+    "10",
+    "paragraf",
+    "ayt"
+  ],
+  "video_141": [
+    "co\u011frafya",
+    "11"
+  ],
+  "video_142": [
+    "tyt",
+    "biyoloji",
+    "11"
+  ],
+  "video_143": [
+    "matematik",
+    "9",
+    "ayt"
+  ],
+  "video_144": [
+    "co\u011frafya",
+    "12"
+  ],
+  "video_145": [
+    "paragraf",
+    "ayt",
+    "12"
+  ],
+  "video_146": [
+    "biyoloji",
+    "11",
+    "ayt"
+  ],
+  "video_147": [
+    "paragraf",
+    "ayt",
+    "12"
+  ],
+  "video_148": [
+    "10",
+    "kimya"
+  ],
+  "video_149": [
+    "9",
+    "biyoloji"
+  ],
+  "video_15": [
+    "matematik",
+    "tyt",
+    "11"
+  ],
+  "video_150": [
+    "edebiyat",
+    "11"
+  ],
+  "video_151": [
+    "10",
+    "ayt",
+    "tarih"
+  ],
+  "video_152": [
+    "geometri",
+    "11"
+  ],
+  "video_153": [
+    "edebiyat",
+    "9",
+    "ayt"
+  ],
+  "video_154": [
+    "biyoloji",
+    "ayt",
+    "12"
+  ],
+  "video_155": [
+    "edebiyat",
+    "tyt",
+    "12"
+  ],
+  "video_156": [
+    "10",
+    "tyt",
+    "tarih"
+  ],
+  "video_157": [
+    "biyoloji",
+    "ayt",
+    "12"
+  ],
+  "video_158": [
+    "edebiyat",
+    "11"
+  ],
+  "video_159": [
+    "co\u011frafya",
+    "11",
+    "ayt"
+  ],
+  "video_16": [
+    "9",
+    "tyt",
+    "biyoloji"
+  ],
+  "video_160": [
+    "edebiyat",
+    "9"
+  ],
+  "video_161": [
+    "edebiyat",
+    "tyt",
+    "10"
+  ],
+  "video_162": [
+    "biyoloji",
+    "ayt",
+    "12"
+  ],
+  "video_163": [
+    "10",
+    "paragraf",
+    "tyt"
+  ],
+  "video_164": [
+    "matematik",
+    "tyt",
+    "11"
+  ],
+  "video_165": [
+    "biyoloji",
+    "12"
+  ],
+  "video_166": [
+    "geometri",
+    "9"
+  ],
+  "video_167": [
+    "10",
+    "co\u011frafya",
+    "tyt"
+  ],
+  "video_168": [
+    "10",
+    "biyoloji"
+  ],
+  "video_169": [
+    "10",
+    "tyt",
+    "kimya"
+  ],
+  "video_17": [
+    "10",
+    "co\u011frafya",
+    "ayt"
+  ],
+  "video_170": [
+    "paragraf",
+    "ayt",
+    "12"
+  ],
+  "video_171": [
+    "9",
+    "ayt",
+    "tarih"
+  ],
+  "video_172": [
+    "10",
+    "geometri",
+    "tyt"
+  ],
+  "video_173": [
+    "9",
+    "ayt",
+    "tarih"
+  ],
+  "video_174": [
+    "geometri",
+    "9",
+    "tyt"
+  ],
+  "video_175": [
+    "edebiyat",
+    "tyt",
+    "9"
+  ],
+  "video_176": [
+    "co\u011frafya",
+    "11",
+    "ayt"
+  ],
+  "video_177": [
+    "matematik",
+    "tyt",
+    "12"
+  ],
+  "video_178": [
+    "9",
+    "ayt",
+    "tarih"
+  ],
+  "video_179": [
+    "10",
+    "tyt",
+    "fizik"
+  ],
+  "video_18": [
+    "ayt",
+    "12",
+    "tarih"
+  ],
+  "video_180": [
+    "12",
+    "ayt",
+    "fizik"
+  ],
+  "video_181": [
+    "tyt",
+    "9",
+    "tarih"
+  ],
+  "video_182": [
+    "ayt",
+    "12",
+    "kimya"
+  ],
+  "video_183": [
+    "edebiyat",
+    "10"
+  ],
+  "video_184": [
+    "geometri",
+    "11",
+    "ayt"
+  ],
+  "video_185": [
+    "co\u011frafya",
+    "tyt",
+    "12"
+  ],
+  "video_186": [
+    "edebiyat",
+    "12"
+  ],
+  "video_187": [
+    "10",
+    "paragraf",
+    "ayt"
+  ],
+  "video_188": [
+    "edebiyat",
+    "10",
+    "ayt"
+  ],
+  "video_189": [
+    "matematik",
+    "9"
+  ],
+  "video_19": [
+    "10",
+    "tyt",
+    "tarih"
+  ],
+  "video_190": [
+    "tyt",
+    "biyoloji",
+    "12"
+  ],
+  "video_191": [
+    "9",
+    "ayt",
+    "kimya"
+  ],
+  "video_192": [
+    "co\u011frafya",
+    "tyt",
+    "12"
+  ],
+  "video_193": [
+    "matematik",
+    "12"
+  ],
+  "video_194": [
+    "matematik",
+    "tyt",
+    "9"
+  ],
+  "video_195": [
+    "9",
+    "ayt",
+    "tarih"
+  ],
+  "video_196": [
+    "9",
+    "biyoloji"
+  ],
+  "video_197": [
+    "co\u011frafya",
+    "11",
+    "tyt"
+  ],
+  "video_198": [
+    "10",
+    "paragraf"
+  ],
+  "video_199": [
+    "9",
+    "fizik"
+  ],
+  "video_2": [
+    "biyoloji",
+    "11",
+    "ayt"
+  ],
+  "video_20": [
+    "paragraf",
+    "11"
+  ],
+  "video_200": [
+    "matematik",
+    "tyt",
+    "11"
+  ],
+  "video_21": [
+    "edebiyat",
+    "ayt",
+    "12"
+  ],
+  "video_22": [
+    "10",
+    "ayt",
+    "kimya"
+  ],
+  "video_23": [
+    "paragraf",
+    "11",
+    "ayt"
+  ],
+  "video_24": [
+    "edebiyat",
+    "9",
+    "ayt"
+  ],
+  "video_25": [
+    "geometri",
+    "ayt",
+    "12"
+  ],
+  "video_26": [
+    "biyoloji",
+    "12"
+  ],
+  "video_27": [
+    "10",
+    "fizik"
+  ],
+  "video_28": [
+    "11",
+    "ayt",
+    "kimya"
+  ],
+  "video_29": [
+    "biyoloji",
+    "12"
+  ],
+  "video_3": [
+    "12",
+    "ayt",
+    "fizik"
+  ],
+  "video_30": [
+    "9",
+    "ayt",
+    "kimya"
+  ],
+  "video_31": [
+    "12",
+    "tyt",
+    "fizik"
+  ],
+  "video_32": [
+    "co\u011frafya",
+    "9",
+    "ayt"
+  ],
+  "video_33": [
+    "9",
+    "fizik"
+  ],
+  "video_34": [
+    "tyt",
+    "biyoloji",
+    "11"
+  ],
+  "video_35": [
+    "10",
+    "ayt",
+    "tarih"
+  ],
+  "video_36": [
+    "9",
+    "ayt",
+    "tarih"
+  ],
+  "video_37": [
+    "10",
+    "tyt",
+    "tarih"
+  ],
+  "video_38": [
+    "co\u011frafya",
+    "11"
+  ],
+  "video_39": [
+    "co\u011frafya",
+    "tyt",
+    "12"
+  ],
+  "video_4": [
+    "10",
+    "kimya"
+  ],
+  "video_40": [
+    "tyt",
+    "11",
+    "tarih"
+  ],
+  "video_41": [
+    "edebiyat",
+    "ayt",
+    "12"
+  ],
+  "video_42": [
+    "11",
+    "fizik"
+  ],
+  "video_43": [
+    "tyt",
+    "11",
+    "fizik"
+  ],
+  "video_44": [
+    "geometri",
+    "9",
+    "ayt"
+  ],
+  "video_45": [
+    "tyt",
+    "11",
+    "kimya"
+  ],
+  "video_46": [
+    "matematik",
+    "9",
+    "ayt"
+  ],
+  "video_47": [
+    "tyt",
+    "9",
+    "fizik"
+  ],
+  "video_48": [
+    "tyt",
+    "biyoloji",
+    "12"
+  ],
+  "video_49": [
+    "edebiyat",
+    "10"
+  ],
+  "video_5": [
+    "edebiyat",
+    "10",
+    "ayt"
+  ],
+  "video_50": [
+    "10",
+    "tyt",
+    "tarih"
+  ],
+  "video_51": [
+    "paragraf",
+    "11",
+    "ayt"
+  ],
+  "video_52": [
+    "10",
+    "paragraf",
+    "tyt"
+  ],
+  "video_53": [
+    "edebiyat",
+    "tyt",
+    "12"
+  ],
+  "video_54": [
+    "matematik",
+    "tyt",
+    "11"
+  ],
+  "video_55": [
+    "10",
+    "paragraf",
+    "ayt"
+  ],
+  "video_56": [
+    "paragraf",
+    "9",
+    "ayt"
+  ],
+  "video_57": [
+    "tyt",
+    "9",
+    "fizik"
+  ],
+  "video_58": [
+    "paragraf",
+    "9",
+    "ayt"
+  ],
+  "video_59": [
+    "geometri",
+    "9"
+  ],
+  "video_6": [
+    "paragraf",
+    "tyt",
+    "12"
+  ],
+  "video_60": [
+    "matematik",
+    "9",
+    "ayt"
+  ],
+  "video_61": [
+    "biyoloji",
+    "11",
+    "ayt"
+  ],
+  "video_62": [
+    "10",
+    "co\u011frafya"
+  ],
+  "video_63": [
+    "10",
+    "co\u011frafya"
+  ],
+  "video_64": [
+    "10",
+    "tyt",
+    "biyoloji"
+  ],
+  "video_65": [
+    "10",
+    "tyt",
+    "biyoloji"
+  ],
+  "video_66": [
+    "biyoloji",
+    "12"
+  ],
+  "video_67": [
+    "10",
+    "tyt",
+    "kimya"
+  ],
+  "video_68": [
+    "10",
+    "biyoloji"
+  ],
+  "video_69": [
+    "tyt",
+    "11",
+    "fizik"
+  ],
+  "video_7": [
+    "9",
+    "tyt",
+    "biyoloji"
+  ],
+  "video_70": [
+    "ayt",
+    "12",
+    "tarih"
+  ],
+  "video_71": [
+    "11",
+    "ayt",
+    "tarih"
+  ],
+  "video_72": [
+    "10",
+    "geometri"
+  ],
+  "video_73": [
+    "biyoloji",
+    "11",
+    "ayt"
+  ],
+  "video_74": [
+    "10",
+    "ayt",
+    "kimya"
+  ],
+  "video_75": [
+    "co\u011frafya",
+    "12"
+  ],
+  "video_76": [
+    "tyt",
+    "12",
+    "kimya"
+  ],
+  "video_77": [
+    "tyt",
+    "12",
+    "tarih"
+  ],
+  "video_78": [
+    "co\u011frafya",
+    "tyt",
+    "12"
+  ],
+  "video_79": [
+    "12",
+    "tarih"
+  ],
+  "video_8": [
+    "matematik",
+    "9",
+    "ayt"
+  ],
+  "video_80": [
+    "9",
+    "tarih"
+  ],
+  "video_81": [
+    "paragraf",
+    "11",
+    "ayt"
+  ],
+  "video_82": [
+    "tyt",
+    "9",
+    "fizik"
+  ],
+  "video_83": [
+    "11",
+    "kimya"
+  ],
+  "video_84": [
+    "10",
+    "kimya"
+  ],
+  "video_85": [
+    "co\u011frafya",
+    "12"
+  ],
+  "video_86": [
+    "paragraf",
+    "tyt",
+    "12"
+  ],
+  "video_87": [
+    "10",
+    "tyt",
+    "tarih"
+  ],
+  "video_88": [
+    "edebiyat",
+    "10",
+    "ayt"
+  ],
+  "video_89": [
+    "geometri",
+    "9"
+  ],
+  "video_9": [
+    "edebiyat",
+    "tyt",
+    "10"
+  ],
+  "video_90": [
+    "paragraf",
+    "ayt",
+    "12"
+  ],
+  "video_91": [
+    "co\u011frafya",
+    "12"
+  ],
+  "video_92": [
+    "10",
+    "ayt",
+    "kimya"
+  ],
+  "video_93": [
+    "geometri",
+    "9"
+  ],
+  "video_94": [
+    "10",
+    "ayt",
+    "tarih"
+  ],
+  "video_95": [
+    "10",
+    "tyt",
+    "biyoloji"
+  ],
+  "video_96": [
+    "9",
+    "biyoloji",
+    "ayt"
+  ],
+  "video_97": [
+    "tyt",
+    "11",
+    "tarih"
+  ],
+  "video_98": [
+    "edebiyat",
+    "11"
+  ],
+  "video_99": [
+    "paragraf",
+    "11"
+  ]
+}
