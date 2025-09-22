@@ -1,0 +1,21 @@
+{
+  "n_hashtags": 15,
+  "max_features": 15,
+  "embedding_dim": 64,
+  "vocabulary": [
+    "biyoloji",
+    "12",
+    "paragraf",
+    "10",
+    "ayt",
+    "tarih",
+    "11",
+    "tyt",
+    "kimya",
+    "co\u011frafya",
+    "matematik",
+    "edebiyat",
+    "fizik",
+    "geometri"
+  ]
+}

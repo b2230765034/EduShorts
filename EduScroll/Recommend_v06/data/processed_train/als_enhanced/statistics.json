@@ -1,0 +1,31 @@
+{
+  "user_stats": {
+    "min_interactions": 3,
+    "max_interactions": 24,
+    "mean_interactions": 10.0,
+    "median_interactions": 10.0,
+    "std_interactions": 3.1717692602837557
+  },
+  "item_stats": {
+    "min_interactions": 13,
+    "max_interactions": 43,
+    "mean_interactions": 25.0,
+    "median_interactions": 25.0,
+    "std_interactions": 5.1186917298393375
+  },
+  "sparsity_stats": {
+    "total_users": 500,
+    "total_items": 200,
+    "total_interactions": 5000,
+    "sparsity": 0.95,
+    "density": 0.05
+  },
+  "engagement_stats": {
+    "avg_watch_fraction": 0.49812199999999995,
+    "avg_weight": 4.42781,
+    "positive_rate": 0.4954,
+    "like_rate": 0.1414,
+    "save_rate": 0.0944,
+    "quiz_success_rate": 0.1516
+  }
+}
