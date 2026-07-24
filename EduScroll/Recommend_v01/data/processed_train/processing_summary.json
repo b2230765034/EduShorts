@@ -1,0 +1,15 @@
+{
+  "processing_time": 7.7360944747924805,
+  "data_statistics": {
+    "total_interactions": 5000,
+    "unique_users": 500,
+    "unique_videos": 200,
+    "sparsity": 0.95,
+    "avg_interactions_per_user": 10.0,
+    "avg_interactions_per_video": 25.0
+  },
+  "algorithms_processed": [
+    "all"
+  ],
+  "output_directory": "data\\processed_train"
+}
