@@ -1,89 +1,101 @@
-🚀 Proje Hakkında
+# EduShorts
 
-EduScroll, öğrencilerin ders içeriklerine daha eğlenceli, hızlı ve kişiselleştirilmiş bir şekilde ulaşmasını hedefleyen bir eğitim uygulamasıdır.
+EduShorts is a personalized micro-learning platform designed to help students learn faster through short-form educational content and adaptive recommendations.
 
-Kısa Videolar: TikTok benzeri kaydırma mantığı ile konu anlatımları.
+The project combines a mobile-first learning experience with a hybrid recommendation system that selects the most relevant algorithm based on user context (cold-start users, active users, and similarity-based exploration).
 
-Podcastler: Yolculukta, sporda veya boş vakitlerde ders içeriklerine sesli erişim.
+## Overview
 
-Oyunlaştırma: İzlenen süreye göre seviye atlama, rozetler ve streak sistemi (Duolingo tarzı motivasyon).
+EduShorts focuses on three core outcomes:
 
-Kişiselleştirilmiş Öneri Sistemi: Kullanıcı profiline ve kullanım yoğunluğuna göre farklı algoritmalar (FAISS, ALS, Content-Based, Hybrid).
+- **Efficient learning** through short videos and audio-first content
+- **Personalized discovery** powered by multiple recommendation strategies
+- **Consistent engagement** through gamified progression loops
 
-👉 Bu sayede öğrenciler yalnızca içerik tüketmekle kalmıyor, düzenli ve motive edici bir öğrenme deneyimi yaşıyorlar.
+## Core Features
 
-🎯 Değerlendirme Kriterleri
-1. Teknik Puan
+### Learning Experience
+- Short vertical lesson videos with swipe-based navigation
+- Podcast-style audio lessons for passive learning moments
+- Mobile-first interface optimized for fast, low-friction study sessions
 
-Öneri sisteminde FAISS, ALS ve Content-Based Filtering yaklaşımları hibrit şekilde kullanıldı.
+### Engagement Layer
+- Streak tracking for daily learning consistency
+- Badge and level progression tied to watch/listen activity
+- Motivational feedback loops inspired by modern learning products
 
-Kullanıcı senaryolarına göre (ör. cold-start, yoğun kullanıcı, benzer içerik arayışı) uygun algoritmalar devreye giriyor.
+### Recommendation System (Primary Project Focus)
+EduShorts uses a **hybrid recommendation architecture** that dynamically routes users to different recommenders depending on available behavioral and content signals.
 
-Frontend tarafında modern UI/UX yaklaşımları ile mobil-first tasarım yapıldı.
+#### 1) FAISS-Based Similarity Retrieval
+- Fast approximate nearest-neighbor search over content embeddings
+- Supports “more like this” exploration flows
+- Low-latency candidate generation for related lessons
 
-2. Performans ve Doğruluk
+#### 2) ALS Collaborative Filtering
+- Learns latent user-item preferences from interaction patterns
+- Performs best for users with sufficient engagement history
+- Improves ranking quality for active users with established interests
 
-FAISS sayesinde benzer içerikler hızlı şekilde bulunabiliyor.
+#### 3) Content-Based Filtering
+- Uses metadata/feature similarity to match content with user interests
+- Effective for cold-start users and new content discovery
+- Provides stable personalization when collaborative signals are sparse
 
-ALS modeli yoğun kullanıcılar için doğru tahminler yapıyor.
+#### 4) Hybrid Orchestration Strategy
+- Selects recommendation path based on user state and data availability
+- Combines candidate sets and ranking signals where appropriate
+- Designed for practical production evolution rather than single-model dependency
 
-Content-Based yaklaşım, yeni kullanıcıların bile ilgi alanlarına uygun içerik bulmasını sağlıyor.
+## Recommendation Logic by User Scenario
 
-3. Uygulanabilirlik
+- **New user (cold start):** Content-Based first, then FAISS similarity expansion
+- **Active user:** ALS-driven ranking with similarity-based backfilling
+- **Topic explorer:** FAISS-heavy retrieval around recent interactions
 
-Proje, bir eğitim platformunun temel ihtiyaçlarını karşılıyor: içerik sunumu + kişiselleştirme + motivasyon.
+This scenario-aware design is the key technical differentiator of the project.
 
-Backend geliştirme plan dahilinde; şu an prototip ön yüz ve öneri sistemi entegrasyonu üzerinden işlevsel demo hazır.
+## Technical Stack
 
-4. Tüketici Faydası
+- **Frontend:** React Native (Expo), TypeScript
+- **Recommendation Layer:** FAISS, ALS, Content-Based Filtering (Hybrid)
+- **Backend:** In progress (current build demonstrates functional frontend + recommendation integration prototype)
 
-Öğrenciler sıkıcı uzun videolar yerine kısa, odaklı içeriklerle öğreniyor.
+## Project Structure (High Level)
 
-Zamanı verimli kullandırıyor (örneğin 10 dakikalık metro yolculuğunda podcast ile tekrar).
+- Mobile client for content feed, playback, and engagement interactions
+- Recommendation module for candidate retrieval and ranking strategies
+- Integration layer for routing logic between recommender components
 
-Oyunlaştırma sayesinde öğrenmeye devam etme motivasyonu artıyor.
+## Current Status
 
-5. Yenilikçilik ve Özgünlük
+- Functional mobile prototype available
+- Recommendation integration implemented at prototype level
+- Backend services and production-grade data pipelines are planned next steps
 
-TikTok tarzı akış + eğitim içerikleri + yapay zekâ destekli öneri sistemi birleşimi, pazarda yenilikçi ve özgün bir yaklaşım.
+## Local Setup
 
-Podcast entegrasyonu ve streak bazlı ödül sistemiyle farklı bir deneyim sunuyor.
+```bash
+# Clone repository
+git clone https://github.com/b2230765034/EduShorts.git
+cd EduShorts
 
-6. Kullanıcı Deneyimi
-
-Frontend tarafı tamamen çalışır durumda, video demosu hazır.
-
-Akışkan kaydırma deneyimi, kolay anlaşılır ikonlar ve net geri bildirim mekanizmaları mevcut.
-
-Kullanıcıya “alıştığı sosyal medya deneyimi” + “eğitim faydası” bir arada sunuluyor.
-
-7. Sunum ve İletişim
-
-Proje videosu hazırlandı.
-
-README dosyasında hem teknik hem kullanıcı odaklı açıklamalar mevcut.
-
-🛠️ Kullanılan Teknolojiler
-
-Frontend: React Native (Expo) + TypeScript
-
-Recommendation System: FAISS, ALS, Content-Based Filtering (Hybrid)
-
-Backend: Geliştirme aşamasında (şu an prototip ön yüz + öneri sistemi entegrasyonu mevcut)
-
-💻 Kurulum
-# Reponun klonlanması
-git clone https://github.com/kullanici/EduScroll.git
-cd EduScroll
-
-# Paketlerin yüklenmesi
+# Install dependencies
 npm install
 
-# Uygulamayı başlatma
+# Start Expo app
 npx expo start
+```
 
-🎥 Demo
+## Demo
 
-📌 Uygulamanın tanıtım videosunu izlemek için: [Demo Linki buraya eklenecek]
+Project demo link: *(to be added)*
 
-✨ EduScroll: Kaydır, Öğren, Pekiştir.
+## Why This Project Matters
+
+EduShorts demonstrates end-to-end product thinking:
+- user-centric mobile UX,
+- practical recommender-system design,
+- and engagement mechanics that support sustained learning behavior.
+
+For portfolio purposes, the recommendation-system architecture is the central engineering contribution of this project.
