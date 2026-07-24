@@ -1,14 +1,14 @@
 # EduScroll Recommendation System v06 🎓
 
-**Production-ready hibrit video öneri sistemi** - Derin öğrenme tabanlı embedding ve matrix factorization
+**Production-ready Hybrid video recommendation system** - Deep learning-based embedding and matrix factorization
 
-## 🎯 Sistem Mimarisi
+## 🎯 System Architecture
 
-### 4 Akıllı Öneri Algoritması
-- **🔍 FAISS** - Yüksek boyutlu vektör benzerlik arama (<10ms)
+### 4 Intelligent Recommendation Algorithm
+- **🔍 FAISS** - High-dimensional vector similarity search (<10ms)
 - **🤖 ALS** - Collaborative filtering matrix factorization
 - **📄 Content-based** - TF-IDF & cosine similarity
-- **🎯 Hybrid** - Dinamik strateji seçimi ve ensemble
+- **🎯 Hybrid** - Dynamic strategy selection and ensemble
 
 ### Core Technologies
 - **Vector Embeddings**: 128-dim dense representations
@@ -47,7 +47,7 @@ user_features = {
 
 ## 🚀 Kullanım
 
-### 1. Veri Hazırlama & Model Eğitimi
+### 1. Data Preparege & Model Training
 ```bash
 # Comprehensive data processing pipeline
 python process_data.py 
